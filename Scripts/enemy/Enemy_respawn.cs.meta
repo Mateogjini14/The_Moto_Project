@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: a382e690f05dc2f4d95cddac017df27a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - zombiePrefab: {fileID: 5396288073213141083, guid: fcd68847deff18b4583d5a8a75c99908, type: 3}
+  - ghostPrefab: {fileID: 794632799453087877, guid: 797280e537f0d0643bfb81d541f741e1, type: 3}
+  - slimePrefab: {fileID: 8369196139434666602, guid: 0f10e3231a3d36540b2da91b8ed98e06, type: 3}
+  - waterSlimePrefab: {fileID: 4085542594749975414, guid: fc52a3354b7cc424386304e12b0ff8bd, type: 3}
+  - respawnpoint1: {instanceID: 0}
+  - respawnpoint2: {instanceID: 0}
+  - respawnpoint3: {instanceID: 0}
+  - respawnpoint4: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
